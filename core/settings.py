@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = os.environ.get("SECRET_KEY")
+SECRET_KEY = 'django-insecure-k&)#cv3@$$mv8yp%@i+u4mq&9+@7bimgkklaqwlf@uywa#6&8t'
 
 # settings.py
 YANDEX_ROUTING_API_KEY = "4680d2a4-7c1f-49b8-b400-4138e95b98f3"
